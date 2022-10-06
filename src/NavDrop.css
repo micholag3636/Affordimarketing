@@ -1,0 +1,30 @@
+#marketing{
+    background-color: #DB3E5B;
+}
+
+
+.marketing2{
+    background-color: rgb(51,46,74);
+}
+
+.capttext{
+    position: relative;
+ 
+    left: auto;
+    right: auto;
+}
+
+.carousel{
+    width: 100vw;
+    max-width: 32em;
+}
+
+.butcont{
+    width: 25em;
+    height: 5em;
+    max-width: 80vw;
+    min-width: 35vw;
+    background-color: rgb(219,62,91);
+    border: 1px rgb(219,62,91) solid;
+   
+}

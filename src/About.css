@@ -1,0 +1,381 @@
+
+
+
+
+
+
+
+.Aboutone{
+
+    background-color: rgb(219,62,91);
+    width: 100%;
+   min-height:30vh;
+    position: relative;
+  
+}
+.Aboutonecont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+.Aboutonecontp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+    text-align: center;
+
+
+}
+
+
+.Aboutoneconth {
+    font-size: 2.6em;
+}
+
+
+.Abouttwo{
+    background-color: rgb(50,45,73);
+  
+    width: 100vw;
+    overflow: hidden;
+    
+    position: relative;
+    min-height: 35vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   
+ 
+}
+
+.About{
+   height: 450vh;
+}
+
+
+
+
+/** For mobile devices **/
+@media (max-width: 767px) {
+    .custom-shape-divider-bottom-1656702579 svg {
+        width: calc(100% + 1.3px);
+        height: 63px;
+    }
+}
+
+
+
+
+
+.Abouttwocont{
+ 
+   
+  
+  width: 100vw;
+ 
+}
+
+.Abouttwocont2{
+    width: 100vw;
+}
+
+.Abouttwop{
+ 
+color: white;
+    
+}
+
+.Abouttwostory{
+
+
+
+}
+
+.Abouttwoimg{
+  
+   
+  
+}
+
+.About2col1{
+    
+  
+    
+    color: white;
+ 
+    min-width: 50vw;
+   
+   
+    
+}
+
+.About2col2{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    min-width: 50vw;
+   
+
+}
+
+.About2col22{
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    min-width: 50vw;
+    background-color: blue;
+ 
+   
+ 
+}
+
+.About2col2img{
+
+    width: 25em;
+    height: auto;
+   
+
+
+    
+}
+
+.About2col2img2{
+
+  
+    height: auto;
+ 
+}
+
+
+
+
+.About2row{
+    width: 100vw;
+}
+
+
+ .About2colimg2{
+
+    width: 25em;
+    position: relative;
+    bottom: 30px;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Aboutthree{
+    position: relative;
+}
+
+.custom-shape-divider-bottom-1656856006 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1656856006 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 45px;
+}
+
+.custom-shape-divider-bottom-1656856006 .shape-fill {
+    fill: rgb(50,45,73);
+}
+
+
+
+.custom-shape-divider-top-1656859432 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1656859432 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 45px;
+}
+
+.custom-shape-divider-top-1656859432 .shape-fill {
+    fill: rgb(50,45,73);
+}
+
+.Abouttwocont{
+    visibility: visible;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.Abouttwocont2{
+    visibility: hidden;
+    display: none;
+ }
+
+@media only screen and (max-width: 1200px){
+    .Abouttwocont{
+        visibility: hidden;
+        display: none;
+
+        
+    }
+
+    .Abouttwocont2{
+    
+       visibility: visible;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+
+    }
+    
+    
+    }
+
+
+
+
+  .cards {margin: 0 auto;
+
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ 
+
+
+  }
+
+  .cardscont{
+    width: 100%;
+  }
+
+  .Aboutthreehead{
+
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: left;
+    margin: 5em;
+  }
+
+
+
+  .custom-shape-divider-top-1657036880 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1657036880 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 241px;
+}
+
+.custom-shape-divider-top-1657036880 .shape-fill {
+    fill: rgb(219,62,91);
+}
+
+.Aboutfour{
+    background-color: rgb(50,45,73);
+    width: 100vw;
+
+}
+
+.Aboutfourcont{
+
+    width: 100vw;
+
+}
+
+.About4row{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    width: 100vw;
+
+}
+
+.Aboutfourcol2{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    
+}
+
+.About2row4{
+    width: 100vw;
+}
+
+.About4cont{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  
+
+}
+
+.About2col2img4{
+    position: relative;
+    margin-top: -30em;
+    object-fit: cover;
+    padding: -100px;
+}
+
